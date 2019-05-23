@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mikedornelas/Pipelines/_apis/build/status/MikeO7.pipelines-go?branchName=master)](https://dev.azure.com/mikedornelas/Pipelines/_build/latest?definitionId=10&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
